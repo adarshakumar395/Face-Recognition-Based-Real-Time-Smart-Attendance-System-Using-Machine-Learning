@@ -58,9 +58,9 @@ Use the Streamlit web app to view and manage attendance records in real-time.
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Acknowledgements ##
--**OpenCV:** For providing powerful computer vision tools.
--**Streamlit:** For enabling the creation of a real-time web interface.
--**KNN Algorithm:** For reliable and efficient face recognition.
+**OpenCV:** For providing powerful computer vision tools.
+**Streamlit:** For enabling the creation of a real-time web interface.
+**KNN Algorithm:** For reliable and efficient face recognition.
 
 ## Contact ##
 For any inquiries or feedback, please contact https://www.linkedin.com/in/adarsha-kumar-13a94223b/ .
