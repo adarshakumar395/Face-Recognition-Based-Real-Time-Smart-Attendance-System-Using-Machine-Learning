@@ -5,7 +5,7 @@ from datetime import datetime
 
 ts=time.time()
 date=datetime.fromtimestamp(ts).strftime("%d-%m-%Y")
-timestamp=datetime.fromtimestamp(ts).strftime("%H:%M-%S")
+timestamp=datetime.fromtimestamp(ts).strftime("%H:%M:%S")
 
 from streamlit_autorefresh import st_autorefresh
 
